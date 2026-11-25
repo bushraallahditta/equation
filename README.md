@@ -45,24 +45,9 @@ The program calculates the discriminant and determines the nature of the roots. 
 
 ## Sample Output
 
-```text
-====================================
-       QUADRATIC EQUATION SOLVER
-====================================
+<img width="562" height="617" alt="image" src="https://github.com/user-attachments/assets/a9b27ec2-927c-4ec4-a400-072be4fb9589" />
 
-1. EQUATION COMPARISON
 
-Equation 1 and Equation 2: Equal
-Equation 1 and Equation 3: Not Equal
-
-2. SOLVING EQUATIONS
-------------------------------------
-
-Equation 1: x^2 - 5x + 6 = 0
-Discriminant (D): 1
-Result: Two real and distinct roots
-
-Equation 2: x^2 - 5x + 6 = 0
 Discriminant (D): 1
 Result: Two real and distinct roots
 
