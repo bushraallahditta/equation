@@ -48,8 +48,4 @@ The program calculates the discriminant and determines the nature of the roots. 
 <img width="562" height="617" alt="image" src="https://github.com/user-attachments/assets/a9b27ec2-927c-4ec4-a400-072be4fb9589" />
 
 
-Discriminant (D): 1
-Result: Two real and distinct roots
 
-Equation 3: x^2 + 2x + 5 = 0
-Discriminant (D):
